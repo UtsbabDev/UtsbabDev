@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Utsbab Khatiwada
+- 👋 Hi, I’m @Utshab Khatiwada
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Machine learning and Web Development
 - 💞️ I’m looking to collaborate on Open source project, web Development & Machine learning
